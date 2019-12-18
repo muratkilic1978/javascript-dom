@@ -1,0 +1,23 @@
+.blueColor {
+    font-size: 1.3rem;
+    color: #151e92;
+    list-style-type:upper-alpha;
+}
+
+.redColor {
+    font-size: 1.4rem;
+    color: darkred;
+    list-style-type:none;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
