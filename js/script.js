@@ -33,5 +33,5 @@ for (let j = 0; j < unorderedListItems.length; j++) {
 var btn = document.createElement("BUTTON");   // Create a <button> element
 btn.innerHTML = "CLICK ME";                   // Insert text
 btn.classList.add("button");                  // adding styling -> button on btn
-document.body.appendChild(btn);               // Append <button> to <body>
+document.body.appendChild("btn");               // Append <button> to <body>
 
